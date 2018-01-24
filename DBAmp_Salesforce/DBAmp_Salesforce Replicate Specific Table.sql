@@ -1,0 +1,1 @@
+exec SF_Replicate @table_server='ls_Salesforce_Staging', @table_name='CRB_Enrolment__c'

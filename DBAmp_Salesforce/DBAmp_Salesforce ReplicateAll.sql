@@ -1,0 +1,1 @@
+exec SF_ReplicateAll 'ls_Salesforce_Staging'

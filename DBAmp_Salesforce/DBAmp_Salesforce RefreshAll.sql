@@ -1,0 +1,1 @@
+exec SF_RefreshAll @table_server='ls_Salesforce_Staging', @replicate_on_schema_error='Yes'
